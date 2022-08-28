@@ -8,6 +8,7 @@ namespace lab_1_oop
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("My name is Olena Lymar");
+            Console.WriteLine("I am a student in KNUTE");
         }
     }
 }
