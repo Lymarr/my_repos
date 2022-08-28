@@ -10,8 +10,8 @@ What is project about
 * my name and surname
 
 Thank you a lot to ***my parents*** and my __close friends__!! 
-They always believed in me
--------------------------
+## They always believed in me ##
+
 
 
 
