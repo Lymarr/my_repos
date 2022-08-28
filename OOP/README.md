@@ -1,6 +1,5 @@
-The first project in GitHub of mine
+# The first project in GitHub of mine #
 
-====================
 
 Hi **everyone**, today I have an unbelievable day due to the fact 
 I've created my the *first repository* in Git Hub !!!
